@@ -1,6 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 # Explict files to normalize
 *.html text
 *.css text
